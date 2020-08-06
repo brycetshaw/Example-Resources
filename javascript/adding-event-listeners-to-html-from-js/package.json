@@ -1,0 +1,12 @@
+{
+  "name": "phone-directory-app-front-end",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
